@@ -2,8 +2,6 @@
 > "Just human..."
 <h3 align="center">I am an Information Technology student with a deep passion for programming and modern technologies. I am striving to become a Software Engineer in the future. I constantly make every effort to enhance my knowledge, develop professional skills, and expand my creative thinking. With all my abilities, I aspire to make meaningful contributions to the world as I pursue the goals of my life.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tringoc2077&label=Profile%20views&color=0e75b6&style=flat" alt="tringoc2077" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ngc_tr_87ac90fba2a8bad5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/ngc_tr_87ac90fba2a8bad5" height="30" width="40" /></a>
@@ -19,3 +17,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tringoc2077&show_icons=true&locale=en" alt="tringoc2077" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tringoc2077&" alt="tringoc2077" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tringoc2077&label=Profile%20views&color=0e75b6&style=flat" alt="tringoc2077" /> </p>
