@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tri Ngoc</h1>
+<h1 align="center">Hi, I'm Tri Ngoc</h1>
 <h3 align="center">I am an Information Technology student with a deep passion for programming and modern technologies. I am striving to become a Software Engineer in the future. I constantly make every effort to enhance my knowledge, develop professional skills, and expand my creative thinking. With all my abilities, I aspire to make meaningful contributions to the world as I pursue the goals of my life.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tringoc2077&label=Profile%20views&color=0e75b6&style=flat" alt="tringoc2077" /> </p>
