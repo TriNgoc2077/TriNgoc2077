@@ -100,10 +100,12 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tringoc2077&show_icons=true&locale=en&cache_seconds=1800" alt="tringoc2077" />
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tringoc2077&show_icons=true&locale=en&theme=github_dark&cache_seconds=1800" alt="tringoc2077" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tringoc2077&theme=default&cache_seconds=1800" alt="tringoc2077" />
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tringoc2077&theme=github-dark&cache_seconds=1800" alt="tringoc2077" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tringoc2077&label=Profile%20views&color=0e75b6&style=flat" alt="tringoc2077" /> </p>
