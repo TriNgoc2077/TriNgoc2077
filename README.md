@@ -108,4 +108,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tringoc2077&theme=tokyonight&cache_seconds=1800" alt="tringoc2077" />
 </p>
 
+![Tri Ngoc's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tringoc2077&theme=github-dark)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tringoc2077&label=Profile%20views&color=0e75b6&style=flat" alt="tringoc2077" /> </p>
