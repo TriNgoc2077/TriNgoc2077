@@ -87,6 +87,18 @@
   </a>
 </p>
 
+### Deployed Projects
+- 🔗 [Core Chain Server (Blockchain HRM Module)](https://core-chain-server-7ed87881dddc.herokuapp.com)
+- 🛒 [E-Commerce Website](https://e-comerce-ctn.store)
+- ✅ [Todo Book App](https://todo-book-five.vercel.app/)
+- 🧱 [Todo_Book Backend](https://react-ultimate-backend-mtkv.onrender.com)
+- 🎧 [Vibra - Music App](https://vibra-ctn.vercel.app/)
+- 🧪 [LSD Project](https://lsd-project-1.vercel.app)
+- 🧩 [Task Management Backend (JS)](https://task-management-backend-cntn.vercel.app/)
+- 🧩 [Task Management Backend (TS)](https://task-management-backend-ts.vercel.app/)
+- 📰 [Article App](https://article-app-ctn.vercel.app/)
+
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tringoc2077&show_icons=true&locale=en&cache_seconds=1800" alt="tringoc2077" />
 </p>
