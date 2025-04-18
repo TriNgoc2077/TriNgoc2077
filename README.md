@@ -88,15 +88,15 @@
 </p>
 
 ### Deployed Projects
-- 🔗 [Core Chain Server (Blockchain HRM System)](https://core-chain-server-7ed87881dddc.herokuapp.com)
+- 🔗 [Core Chain Server (API for Blockchain HRM Software)](https://core-chain-server-7ed87881dddc.herokuapp.com)
 - 🛒 [E-Commerce Website](https://e-comerce-ctn.store)
 - ✅ [Todo Book App](https://todo-book-five.vercel.app/)
-- 🧱 [Todo_Book Backend](https://react-ultimate-backend-mtkv.onrender.com)
+- 🧱 [Todo_Book API](https://react-ultimate-backend-mtkv.onrender.com)
 - 🎧 [Vibra - Music App](https://vibra-ctn.vercel.app/)
 - 🧪 [LSD Project](https://lsd-project-1.vercel.app)
-- 🧩 [Task Management Backend (JS)](https://task-management-backend-cntn.vercel.app/)
-- 🧩 [Task Management Backend (TS)](https://task-management-backend-ts.vercel.app/)
-- 📰 [Article App](https://article-app-ctn.vercel.app/)
+- 🧩 [Task Management API (JS)](https://task-management-backend-cntn.vercel.app/)
+- 🧩 [Task Management API (TS)](https://task-management-backend-ts.vercel.app/)
+- 📰 [Article API](https://article-app-ctn.vercel.app/)
 
 
 
