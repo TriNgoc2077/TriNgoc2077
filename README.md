@@ -88,7 +88,7 @@
 </p>
 
 ### Deployed Projects
-- 🔗 [Core Chain Server (Blockchain HRM Software Server)](https://core-chain-server-7ed87881dddc.herokuapp.com)
+- 🔗 [Core Chain Server (Blockchain HRM Software API)](https://core-chain-server-7ed87881dddc.herokuapp.com)
 - 🛒 [E-Commerce Website](https://e-comerce-ctn.store)
 - ✅ [Todo Book App](https://todo-book-five.vercel.app/)
 - 🧱 [Todo_Book API](https://react-ultimate-backend-mtkv.onrender.com)
