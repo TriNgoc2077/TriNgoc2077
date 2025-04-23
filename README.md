@@ -103,11 +103,11 @@
 
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tringoc2077&show_icons=true&locale=en&theme=tokyonight&cache_seconds=1800" alt="tringoc2077" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tringoc2077&show_icons=true&locale=en&theme=tokyonight&cache_seconds=3600" alt="tringoc2077" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tringoc2077&theme=tokyonight&cache_seconds=1800" alt="tringoc2077" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=tringoc2077&theme=tokyonight&cache_seconds=3600" alt="tringoc2077" />
 </p>
 
 ![Tri Ngoc's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tringoc2077&theme=github-dark)
