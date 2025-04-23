@@ -101,15 +101,12 @@
 - 📰 [Article API](https://article-app-ctn.vercel.app/)
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tringoc2077&theme=tokyonight)](https://github.com/tringoc2077/github-readme-stats)
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tringoc2077&show_icons=true&locale=en&theme=tokyonight&cache_seconds=3600" alt="tringoc2077" />
-</p>
 
-<p>
-  <img align="center" src="https://streak-stats.demolab.com/?user=tringoc2077&theme=tokyonight&cache_seconds=3600" alt="tringoc2077" />
-</p>
+[![GitHub Streak](https://trisngocj-github-streak-stats.vercel.app?user=tringoc2077&theme=tokyonight)](https://git.io/streak-stats)
 
-![Tri Ngoc's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tringoc2077&theme=github-dark)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tringoc2077&theme=tokyo-night)](https://github.com/tringoc2077/github-readme-activity-graph)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tringoc2077&label=Profile%20views&color=0e75b6&style=flat" alt="tringoc2077" /> </p>
