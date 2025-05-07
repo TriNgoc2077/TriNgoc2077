@@ -3,7 +3,7 @@
 <h4> >> 🌐 <a href="https://caonguyentringoc.io.vn" target="_blank" rel="noopener noreferrer" style="color:#a855f7;"><i>My Portfolio</i></a></h4>
 
 <h3 align="center">I am an Information Technology student with a deep passion for programming and modern technologies. I am striving to become a Software Engineer in the future. I constantly make every effort to enhance my knowledge, develop professional skills, and expand my thinking. With all my abilities, I aspire to make meaningful contributions to the world as I pursue the goals of my life.</h3>
-
+   
 <hr/>
 
 <h3 align="left">Connect with me:</h3>
