@@ -100,6 +100,7 @@
 
 ### Deployed Projects
 - 🔗 [Core Chain Server (Blockchain-based HRM Software API)](https://corechainserver-2374e35423f9.herokuapp.com)
+- 🎵 [Clone Soundcloud](https://clone-soundcloud.vercel.app/)
 - 🛒 [E-Commerce Website](https://e-comerce-ctn.store)
 - ✅ [Todo Book App](https://todo-book-five.vercel.app/)
 - 🧱 [Todo_Book API](https://react-ultimate-backend-mtkv.onrender.com)
