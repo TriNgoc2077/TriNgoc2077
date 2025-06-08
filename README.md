@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tri Ngoc</h1>        
+<h1 align="center">Hi, I'm Tri Ngoc</h1>       
  
 <h4> >> 🌐 <a href="https://caonguyentringoc.io.vn" target="_blank" rel="noopener noreferrer" style="color:#a855f7;"><i>My Portfolio</i></a></h4>
 
