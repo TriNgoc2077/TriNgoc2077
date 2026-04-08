@@ -80,16 +80,3 @@ Backend-focused Software Engineering student with hands-on experience architecti
 | 📜 **28tech** | C++ Programming, Data Structures & Algorithms, Backend with Node.js |
 | 📜 **hoidanit** | NestJS, React, Next.js, React Native, Production Deployment |
 | 🌐 **TOEIC** | 700 |
-
----
-
-## Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-tringoc.4w%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tringoc.4w@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-caonguyentringoc.io.vn-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://caonguyentringoc.io.vn)
-[![GitHub](https://img.shields.io/badge/GitHub-TriNgoc2077-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TriNgoc2077)
-[![Phone](https://img.shields.io/badge/Phone-%2B84_396_642_975-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+84396642975)
-
-</div>
